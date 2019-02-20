@@ -1,0 +1,70 @@
+/*
+Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+Author:HtmlCoder
+Author URI:http://www.htmlcoder.me
+Version:1.0.0
+Created:November 2014
+License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+File Description: Place here your custom CSS styles
+*/
+.m {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+/*.dplayer {*/
+    /*height:35%;*/
+    /*width: 100%;*/
+    /*margin: 0 auto;*/
+/*}*/
+
+.dplayer-logo {
+    max-width: 200px;
+}
+
+.dplayer.dplayer-mobile .dplayer-controller .dplayer-icons .dplayer-full .dplayer-full-in-icon {
+    display: none;
+}
+
+.list-icons li {
+    padding: 0 0 10px 0;
+    margin: 0 auto;
+    display: table;
+}
+.list-icons li img {
+    margin: 0 auto;
+    display: block;
+}
+.section {
+    padding: 80px 0 0 0;
+}
+.lastfooter{
+    list-style: none;
+    font-size: 14px;
+}
+.fxxk{
+    font-size: 10px;
+}
+.nonexit{
+    text-decoration: line-through;
+    color: #229fdc;
+}
+.a{
+    color: #229fdc;
+}
+.zx-btn {
+    padding: 5px 12px;
+    font-size: 16px;
+}
+.footer-color{
+    padding: 10px 0 0 0 ;
+    width: 100%;
+    background-color: #0f0f0f;
+    margin:auto;
+    text-align: center;
+    color: #e0e0e0;
+}
+.container {
+    width: 100%;
+}
